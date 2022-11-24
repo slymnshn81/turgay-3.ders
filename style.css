@@ -44,7 +44,7 @@ font-family: sans-serif;
 
 .navbar ul li a {
     text-decoration: none;
-    color: white;
+    color: rgb(26, 25, 25);
     text-transform: uppercase;
     position: relative;
     padding-bottom: 10px;
@@ -53,8 +53,8 @@ font-family: sans-serif;
 
 .navbar ul li a span {
     width: 0;
-    height: 3px;
-    background-color: red;
+    height: 5px;
+    background-color: rgb(118, 247, 19);
     position: absolute;
     left: 0;
     bottom: 0;
